@@ -1,0 +1,40 @@
+.primary{
+  color: #fff;
+  background-color:#013364;
+  font-size: 20px;
+  padding:10px 20px;
+  border:1px solid #013364;
+  display: block;
+  width: 100%;
+  margin:20px 0px;
+
+}
+
+.delete{
+  color: #fff;
+  background-color:#dd0000;
+  font-size: 20px;
+  padding:10px 20px;
+  border:1px solid #dd0000;
+  margin-inline:10px;
+}
+
+
+.input{
+  padding: 20px;
+  width: 100%;
+
+}
+
+.list{
+  display: block;
+}
+
+
+.section{
+  background-color: #1e90ff;
+  max-width: 800px;
+
+  padding:60px;
+
+}
