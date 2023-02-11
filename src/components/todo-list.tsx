@@ -74,7 +74,7 @@ export default function TodoList(){
           <ul className={styles.list}>
             {todoArr.map((element) => {
               return (
-                <li
+                <li key={element.text}
                   style={{
                     color: element.completedtask ? "#013364" : "#fff",
                     fontSize: "24px",
